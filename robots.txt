@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://orbitbeats.github.io/sitemap.xml
